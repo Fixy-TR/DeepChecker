@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: DeepChecker
+Version: 0.0.1
+Summary: This is a deep learning based library for handling Turkish clitics such as da, de, ki and mi.
+Home-page: UNKNOWN
+Author: Ümit Yılmaz
+Author-email: umitylmz98@gmail.com
+License: UNKNOWN
+Description: It is the tesing file with two sample classes named
+        class Message
+            methods msg1()
+        class Show
+            methods add(a,b), sub(a,b)
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

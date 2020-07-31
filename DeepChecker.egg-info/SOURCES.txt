@@ -1,0 +1,17 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.py
+DeepChecker/Checkers.py
+DeepChecker/__init__.py
+DeepChecker.egg-info/PKG-INFO
+DeepChecker.egg-info/SOURCES.txt
+DeepChecker.egg-info/dependency_links.txt
+DeepChecker.egg-info/requires.txt
+DeepChecker.egg-info/top_level.txt
+DeepChecker/tokenizers/tokenizer_deda.pickle
+DeepChecker/tokenizers/tokenizer_ki.pickle
+DeepChecker/tokenizers/tokenizer_mi.pickle
+DeepChecker/weights/Model_deda.h5
+DeepChecker/weights/Model_ki.h5
+DeepChecker/weights/Model_mi.h5
